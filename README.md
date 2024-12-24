@@ -1,5 +1,5 @@
 # 💫 About Me:
-#🔭 I’m currently working on Tata Consultancy Services (TCS)<br>
+<!--🔭 I’m currently working on Tata Consultancy Services (TCS)<br> -->
 🌱 I’m currently learning Spring Boot, Angular, AWS<br>💬 Ask me about Java, Spring Boot, AWS<br>📫 How to reach me rohitmadhesiya19@gmail.com<br>📄 Know about myself https://www.linkedin.com/in/rohit-gupta-3502b2137/
 
 
